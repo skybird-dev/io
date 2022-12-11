@@ -1,0 +1,102 @@
+.fp-style-1 {
+ background-color: rgb(129, 41, 54);
+}
+
+.fp-style-2 {
+ background-color: rgb(255, 255, 255);
+}
+
+.fp-style-3 {
+ background-image: url('./../imgs/happy-discussion-638d72d85da435.45176711.jpg');
+opacity: 0.27;
+}
+
+.fp-style-4 {
+ background-image: url('./../imgs/mitra-mehr-fD393evnaM-unsplash-635edafe00fc96.78861953.jpg');
+}
+
+.fp-style-5 {
+ background-image: url('./../imgs/proton-plain-635eda5c1c35c7.36449950.png');
+}
+
+.fp-style-6 {
+ background-image: url('./../imgs/proton-plain-635eda5c1c35c7.36449950.png');
+opacity: 1;
+}
+
+.fp-style-7 {
+ background: black;
+}
+
+.fp-style-8 {
+ height: 456px;
+width: 100%;
+}
+
+.fp-style-9 {
+ background-color: rgba(0, 0, 0, 0);
+height: 73px;
+}
+
+.fp-style-10 {
+ margin-left: 5px;
+margin-right: 0px;
+}
+
+.fp-style-11 {
+ display: flex;
+flex-wrap: wrap;
+height: inherit;
+max-height: inherit;
+min-height: inherit;
+position: relative;
+width: 100%;
+}
+
+.fp-style-12 {
+ left: 0px;
+mix-blend-mode: darken;
+pointer-events: none;
+position: absolute;
+top: 0px;
+}
+
+.fp-style-13 {
+ height: 59px;
+object-fit: contain;
+object-position: left 50%;
+width: 214px;
+}
+
+.fp-style-14 {
+ height: 345px;
+object-fit: cover;
+width: 548px;
+}
+
+.fp-style-15 {
+ left: 0px;
+pointer-events: none;
+position: absolute;
+top: 0px;
+}
+
+.fp-style-16 {
+ height: 100%;
+overflow: scroll;
+width: 100%;
+}
+
+
+
+fp-fullpage {
+ font-family: Arimo;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: Arimo;
+}
+
+button {
+ font-family: Arimo;
+}
